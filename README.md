@@ -1,17 +1,12 @@
-The mathematical sciences particularly exhibit order, symmetry, and limitation; 
-and these are the greatest forms of the beautiful.
+![1197](https://user-images.githubusercontent.com/12117783/125170816-df18b780-e17e-11eb-989e-3df6e933f33d.png)
 
-<p align="right">— <i>Aristotle</i></p>
 
-<br>
+<i>The mathematical sciences particularly exhibit order, symmetry, and limitation; 
+and these are the greatest forms of the beautiful.</i>
 
-https://user-images.githubusercontent.com/12117783/125169526-978f2d00-e178-11eb-889d-7043f482808a.mov
+<p>— Aristotle</p>
 
-<br>
-<br>
-
-#### About
-
+---
 - I'm currently working on the `frontend` at [NoiseAware](https://noiseaware.io)
 - My background is in **physics** and **data science**
 - I'm interested in quantum computing, `Rust`, and `Julia`
