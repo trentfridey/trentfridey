@@ -7,7 +7,7 @@ and these are the greatest forms of the beautiful.</i>
 <p>— Aristotle</p>
 
 ---
-- I'm currently working on the `frontend` at [NoiseAware](https://noiseaware.io)
+- I'm currently working on `data science` at [NoiseAware](https://noiseaware.io)
 - My background is in **physics** and **data science**
-- I'm interested in quantum computing, `Rust`, and `Julia`
+- I'm interested in math, quantum computing, `Rust`, and `Julia`
 - I blog about all of the above [here](https://blog.trentfridey.com)
