@@ -7,7 +7,7 @@ and these are the greatest forms of the beautiful.</i>
 <p>— Aristotle</p>
 
 ---
-- I'm currently looking for a new job in software development
+- I am a Software Engineer building web apps
 - My background is in **physics** and **data science**
-- I'm interested in math, quantum computing, `Rust`, and `Julia`
+- I'm interested in math, data science, and physics
 - I blog about all of the above [here](https://blog.trentfridey.com)
